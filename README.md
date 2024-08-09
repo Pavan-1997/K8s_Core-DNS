@@ -18,12 +18,13 @@ k get svc -n=kube-system
 
 ![image](https://github.com/user-attachments/assets/1a171ce4-0acb-4155-9327-63a693147c1c)
 
-   In this we can add another IP of POD to reach 
+
+4. In this we can add another IP of POD to reach 
 
 ![image](https://github.com/user-attachments/assets/0c77f0e5-2a08-4007-af39-e528c9f1f343)
 
 
-4. Important file to check for Core DNS
+5. Important file to check for Core DNS
 
 ```
 k describe cm coredns -n=kube-system
