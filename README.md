@@ -18,7 +18,7 @@ k get svc -n=kube-system
 
 ![image](https://github.com/user-attachments/assets/1a171ce4-0acb-4155-9327-63a693147c1c)
 
-In this we can add another IP of POD to reach 
+   In this we can add another IP of POD to reach 
 
 ![image](https://github.com/user-attachments/assets/0c77f0e5-2a08-4007-af39-e528c9f1f343)
 
